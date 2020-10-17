@@ -40,4 +40,4 @@ The improvement method was to use Python and its powerful libraries design to de
 ### Previous Model
 ![](Figure_1.png)
 ### Link To project
-[Analysis Code](Linear Regression.zip)
+[AnalysisCode](Linear Regression.zip)
