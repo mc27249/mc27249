@@ -1,5 +1,9 @@
 ![](Portfolio.png)
-## Hello folks
+
+# Introduction
+My name is Mamadou Cisse, three  years ago while serving on active duty at a  remote location one  had an epiphany regarding the  direction the world is heading. At some point technology will be integrated into everything and humans well become more depended on technological advancement more than ever. It was at this moment that one had the vison of becoming a contributor in tech and not just a consumer.From there, one enrolled into Southern New Hampshire University Computer Science program to pursuit a bachelor’s degree. The journey is nearing a checkpoint, one has to say it has been a phenomenal experience. One went from writing  _Hello world!_ to fully  functional applications. One currently works as a SQL Server Engineer at Microsoft. Below are examples of  some of the important concepts that was learned during this experience and how one has progress through the years. 
+
+# Assessment
 
 You can use the [editor on GitHub](https://github.com/mc27249/mc27249/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
