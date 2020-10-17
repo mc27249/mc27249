@@ -1,3 +1,7 @@
+![](Portfolio.png)Pictures
+Format: ![Alt Text](url)
+
+
 ## Hello folks
 
 You can use the [editor on GitHub](https://github.com/mc27249/mc27249/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
