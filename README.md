@@ -10,6 +10,11 @@ The program at SNHU from the very first day challenged one to improve one’s sk
 
 To demonstrate one’s understanding, I’d like to reference CS 310, “_Collaboration & Team Project_”.  A course fully dedicated to collaboration using Bitbucket. With over 15 students all working on the same repository and implementing their choice of music into the code. One also had the option to review other students code and discuss what could be change or simply ask questions for clarification. C++ is one’s strongest language. while it offers performance advantages, it’s easy to introduce security flaw in one’s code if things are misused. C++ Pointers is a topic I spend lots of time on. They are powerful yet, subject to causing unauthorized memory access that can lead to other problems. Throughout the coursework, one has invested time in areas such as code design, databases, data structure and algorithms, reviewing requirements from stakeholders. Time spend in these areas during the program as shape one’s professional goal and has prepared one for the challenges ahead. 
 
+# CODE REVIEW
+Below is the link to a code review of the projects that are reference in the portfolio. One will find the initial code of all the projects as well as the summary of the enhancement plan.
+
+<iframe width="680" height="480" src="https://www.youtube.com/embed/bzloe3fBUVg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # ARTIFACTS
 The artifacts that are presented here are to showcase one’s skill and one’s growth throughout the program. While the artifacts focus and put emphasize the following areas: Software Design and Engineering, Data Structure and Algorithms, Database. That not to say that other areas were ignore. Security in particular has been taking into full consideration in all the artifacts and could not be emphasize enough. These areas are implemented in every application out there and its important that one has done work in these areas as a preparation to what’s to come. Below one will find a summary of the artifact and the work that was done. In addition, the code/project can be downloaded for review. 
 
