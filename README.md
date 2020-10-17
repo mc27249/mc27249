@@ -34,7 +34,7 @@ In a previous course where one did data analysis using Microsoft Excel and JUMP 
 
 The improvement method was to use Python and its powerful libraries design to deal with the limitations mentioned above. As a result, the regression model that one build had a much smaller percent error compared to the outcome of JUMP software, This can be seen in the figures that are provide with the python code and the dataset. As a data junkie, the enhancement process was very informative. Although not include in the downloadable, the same analysis was done using R. Outcomes were the same, most importantly it was an opportunity to learn another widely used program. Kindly download the project _LinearRegression._
 ### Link To project
-[DataStructure](Linear Regression.zip)
+[DataStructure](https://github.com/mc27249/mc27249/blob/master/Linear%20Regression.zip)
 
 ### New Model
 ![](FigureOne.png)
