@@ -18,12 +18,14 @@ The artifact used to demonstrate one’s understanding of design is titled “_A
 
 To improve the design of the project, one implemented new skills learned throughout the program such as making use of header files, hide majority of the code and make reference call. This truncated the main.ccp file and it looks cleaner. The readability is off the chart, and the code can easily be modified and reused. Both the original and enhance code are provided for download.
 ### Link To project
-[GitHub](AccountApp.zip)
+[AccountApp](AccountApp.zip)
 
 # Data Structure and Algorithms
 The artifact used here to demonstrate this concept is part of the Account application that was mentioned above. However, there is a separate downloadable for the code, one did not include the entire project but, simply the methods where the concepts were implemented. Initially the project was design with arrays of accounts. Upon later review, one realized that the project can be improved given the limitation of arrays. One, arrays fixed in size. While this is not an issue now, in an event where one needs space for more accounts then what’s allocated, one would have to go back to the source code and change the max size and recompile the code. This too costly and could be avoided.
 
 As a method of improvement, one modified the code to use vectors as the data type, which is a dynamic array with lots of cool functions. This improved the artifact by avoiding the allocation of unnecessary storage space, the accounts can grow and shrink in size at runtime and it gives the ability to use methods that provide bounds checking. This allow one to delete some of the code that was being used for tracking number of accounts It’s important to keep in mind that this is in context of C++. Other modern languages would not experience this issue with arrays. With similar semantics and syntax for array and vectors, the changes were still challenging to implement. It important to understand the limitations and advantages of what’s in one’s code. Kindly download the project.
+### Link To project
+[DataStructure](DataStructures.zip)
 
 # Databases
 Data is by far the most valuable assets at most companies, beside the employees of course. One is not referencing any particular database platform here, although one has done database administration task using Microsoft SQL Server. One is more interested in the data themselves and how businesses are leveraging it to make data-driven decisions. For that reason, one has decided to demonstrate skills in building simple Machine Learning models using python to help predict trends base on given dataset. 
@@ -37,3 +39,5 @@ The improvement method was to use Python and its powerful libraries design to de
 
 ### Previous Model
 ![](Figure_1.png)
+### Link To project
+[Analysis Code](Linear Regression.zip)
