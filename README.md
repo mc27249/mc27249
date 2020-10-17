@@ -16,6 +16,8 @@ The artifacts that are presented here are to showcase one’s skill and one’s 
 # Design
 The artifact used to demonstrate one’s understanding of design is titled “_AccountApp_”. This is a project that initially began outside the classroom back in March 2019. After a while one revisited the project and the room for improvement was huge. This gave one the opportunity to incorporate the project into classroom work. The project is  a simple program that implement object oriented programming inherence concept  by using an account which is a base class and saving account, checking account and trust account  which are all derived classes. Users perform basic operation such as deposit, withdraw and display balance. The initial design of this project is extremely poor, but one was not aware of this at the time. Although the code is functional, everything is cramped in a single main.ccp file, which makes the code difficult to maintain, reused, and difficult to read and dissect.  
 
+[GitHub](http://github.com)
+
 To improve the design of the project, one implemented new skills learned throughout the program such as making use of header files, hide majority of the code and make reference call. This truncated the main.ccp file and it looks cleaner. The readability is off the chart, and the code can easily be modified and reused. Both the original and enhance code are provided for download.
 
 # Data Structure and Algorithms
